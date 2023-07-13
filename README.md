@@ -7,5 +7,5 @@ It is a simple application that allows users to increment or decrement a numeric
 - Incremental function: Allows users to increase the counter value by one.
 - Decremental function: Allows users to decrease the counter value by one.
 
- Contributing
+  
 Any contributions to this project are welcome!
